@@ -9,8 +9,8 @@ This will use Autogen agents in FastApi based backend and React for webapp devlo
 
 1. **Clone this repo**
 ```
-git clone https://github.com/yogeshjangra/pathway_agent.git
-cd agent_chatbot_hackathon
+git clone https://github.com/its-yogesh-2/agent.git
+cd agent
 ```
 2. **Configure backend**
 
